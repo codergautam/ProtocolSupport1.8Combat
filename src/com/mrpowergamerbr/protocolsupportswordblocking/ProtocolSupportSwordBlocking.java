@@ -64,7 +64,8 @@ public class ProtocolSupportSwordBlocking extends JavaPlugin implements Listener
 			}
 		});
 
-		getLogger().info("SWORD BLOCKING PROTOCOL SUPPORT LOADED SUCCESSFULLY :DDDD");
-		getLogger().info("SUBTO CODER GAUTAM ON YT!!!! https://youtube.com/CoderGautam");
+		getLogger().info(
+				" Successfully Loaded.");
+
 	}
 }
