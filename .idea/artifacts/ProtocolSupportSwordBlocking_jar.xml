@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProtocolSupportSwordBlocking:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ProtocolSupportSwordBlocking_jar</output-path>
+    <properties id="ant-postprocessing">
+      <options enabled="true" />
+    </properties>
+    <root id="archive" name="ProtocolSupportSwordBlocking.jar">
+      <element id="module-output" name="ProtocolSupportSwordBlocking" />
+    </root>
+  </artifact>
+</component>
