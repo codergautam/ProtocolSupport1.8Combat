@@ -1,7 +1,7 @@
 # ProtocolSupport1.8Combat
-Updated Fork of MrPowerGamerBR's Sword Blocking Plugin
-
 Allows blocking/sheilds to be seen on other clients when using OldCombatMecanics and ProtocolSupport
+
+Updated Fork of MrPowerGamerBR's Sword Blocking Plugin
 
 > Currently only supports versions 1.13-1.16.5, 1.12 and below support coming soon!
 
